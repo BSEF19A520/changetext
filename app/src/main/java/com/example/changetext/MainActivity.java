@@ -21,4 +21,6 @@ public class MainActivity extends AppCompatActivity {
 
         text1.setText("Assalam Alikum ! ! !");
     }
+
+    
 }
