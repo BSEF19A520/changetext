@@ -20,8 +20,7 @@ public class MainActivity extends AppCompatActivity {
     public void changeText(View view) {
 
         text1.setText("Assalam Alikum ! ! !");
+        text1.setText("Wa Alaikum Assalam ! ! !");
     }
-
-
 
 }
